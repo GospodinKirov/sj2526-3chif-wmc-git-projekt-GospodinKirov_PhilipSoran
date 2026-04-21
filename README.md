@@ -37,4 +37,4 @@ npm run dev
 
 ## Autor
 
-Ekin Yarar
+Gospodin Kirov, Philip Soran
