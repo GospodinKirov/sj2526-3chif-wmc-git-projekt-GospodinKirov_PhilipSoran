@@ -35,6 +35,6 @@ npm run dev
 - PUT /activities/:id  
 - DELETE /activities/:id  
 
-## Autor
+## Autore
 
 Gospodin Kirov, Philip Soran
